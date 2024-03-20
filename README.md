@@ -41,3 +41,5 @@ Go to the .env and edit it with your bot data.
 [Node.js v14](https://nodejs.org/en)
 
 [Discord Developer Portal](https://discord.com/developers/applications)
+
+[Twitch API](https://dev.twitch.tv/docs/api/)
