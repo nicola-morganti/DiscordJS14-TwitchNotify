@@ -1,0 +1,16 @@
+{
+  "name": "discordjs14-twitchnotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nicola-morganti",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "superagent": "^8.1.2"
+  }
+}
