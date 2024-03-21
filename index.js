@@ -53,7 +53,7 @@ setInterval(async function () {
     }else {
         online = false;
     }
-}, 1000 * 10);
+}, 1000 * 60 * 5);
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 })
